@@ -1,5 +1,4 @@
-## Hi there 👋
+# Darryl Land
 
-<!--
-This is Darryl Land. A very simple home page for myself.
--->
+### This is Darryl Land. A very simple home page.
+
