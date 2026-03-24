@@ -1,0 +1,19 @@
+{
+  "short_name": "Darryl Land",
+  "name": "Darryl Land",
+  "icons": [
+    {
+      "src": "unnamed_resized.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ],
+  "id": "https://darrylland.puter.site/",
+  "start_url": "https://darrylland.puter.site/",
+  "background_color": "#512DA8",
+  "display": "fullscreen",
+  "display_override": ["fullscreen"],
+  "scope": "https://darrylland.puter.site/",
+  "theme_color": "#512da8"
+}
