@@ -193,7 +193,7 @@ console.log("fin 2")
 
             if (isUrl && query.includes('.')) {
                 
-                window.open(urlToValidate, '_blank');
+                window.location.href = urlToValidate;
             } else if (query.includes("hate darryl land") || query.includes("destroy darryl land")) {
               while(1)location.reload(1);
               //This is self destructing code for chromium
@@ -211,7 +211,7 @@ console.log("fin 2")
             } else {
                 
                 const googleSearchUrl = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
-                window.open(googleSearchUrl, '_blank');
+                window.location.href = googleSearchUrl;
             }
         }
     });
